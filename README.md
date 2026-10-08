@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FLAME 2026 — Live Neural Network
 
 A small neural network trained in Google Colab:
@@ -21,3 +22,6 @@ The deployment environment only needs:
 
 - streamlit
 - numpy
+=======
+# FLAME2026
+>>>>>>> 7e206d632d20be861c8ce45eb8dea3eb5c19a746
